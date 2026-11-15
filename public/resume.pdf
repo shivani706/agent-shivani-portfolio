@@ -1,0 +1,22 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shivani Raghuwanshi | Applied AI &amp; Systems Developer</title>
+    <meta name="description" content="Interactive portfolio of Shivani Raghuwanshi (Agent Shivani) — B.Tech CSE @ MITS Gwalior, Ex-IAF Design Intern, Naval NCC Cadet. Specializing in Graph Neural Networks, Digital Twins, and Computer Vision." />
+    <meta property="og:title" content="Shivani Raghuwanshi | Applied AI & Systems Developer" />
+    <meta property="og:description" content="Explore live 2R2C HVAC Digital Twin & Bitcoin AML Graph Neural Network simulators, C++ DSA metrics, and gesture-controlled Dino arcade." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/preview.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet" />
+    <script type="module" crossorigin src="/assets/index-BsSlJbhM.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CsQlVj4_.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
