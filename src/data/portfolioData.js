@@ -1,4 +1,5 @@
-﻿import { Code2, Brain, Database, Cpu } from 'lucide-react';
+import avatarImg from '../assets/avatar.jpeg';
+import { Code2, Brain, Database, Cpu } from 'lucide-react';
 
 export const PROFILE_INFO = {
   codename: 'AGENT SHIVANI // ZERO-DAY',
@@ -9,7 +10,7 @@ export const PROFILE_INFO = {
   github: 'https://github.com/shivani706',
   email: 'shivaniraghuwanshi4647@gmail.com',
   resumeUrl: '/resume.pdf',
-  defaultAvatar: "/avatar.jpeg",
+  defaultAvatar: avatarImg,
   codingStats: [
     { platform: 'LEETCODE', detail: 'C++ & Python DSA', badge: 'ACTIVE' },
     { platform: 'GFG / NINJAS', detail: 'Trees, Graphs & DP', badge: 'VERIFIED' },
