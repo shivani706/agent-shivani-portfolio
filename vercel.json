@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    { "source": "/((?!resume\\.pdf|preview\\.png|avatar\\.png|assets/).*)", "destination": "/index.html" }
   ]
 }
