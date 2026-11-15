@@ -9,7 +9,7 @@ export const PROFILE_INFO = {
   github: 'https://github.com/shivani706',
   email: 'shivaniraghuwanshi4647@gmail.com',
   resumeUrl: '/resume.pdf',
-  defaultAvatar: "/avatar.jpg",
+  defaultAvatar: "/avatar.jpeg",
   codingStats: [
     { platform: 'LEETCODE', detail: 'C++ & Python DSA', badge: 'ACTIVE' },
     { platform: 'GFG / NINJAS', detail: 'Trees, Graphs & DP', badge: 'VERIFIED' },
