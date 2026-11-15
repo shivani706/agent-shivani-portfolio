@@ -1,5 +1,1 @@
-{
-  "rewrites": [
-    { "source": "/((?!resume\\.pdf|preview\\.png|avatar\\.png|assets/).*)", "destination": "/index.html" }
-  ]
-}
+﻿{"rewrites":[{"source":"/((?!resume\\.pdf|preview\\.png|avatar\\.jpg|assets/).*)","destination":"/index.html"}]}
